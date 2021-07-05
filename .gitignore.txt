@@ -1,0 +1,8 @@
+# Executables
+*.pdf
+*.mp4
+*.MP4
+*.JPG
+*.JPEG
+*.jpg
+*.jpeg
